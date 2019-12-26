@@ -1,0 +1,20 @@
+h3{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  margin-bottom: 50px;
+}
+.hello button{
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: black;
+margin: 1%;
+
+}
